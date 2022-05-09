@@ -14,6 +14,7 @@ CMD: <venv>\Scripts\activate.bat
 
 How to installation Flask (required virtual ambient): pip install Flask
 How to check installation Flask: flask --version
+How to install flask_restx: pip install flask-restx
 
 Create variable ambient: $env:FLASK_APP = "[appname].py"
 
